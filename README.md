@@ -1,8 +1,8 @@
-### Hi there 👋 my name is David and I'm from Spain
-### Currently working as a QA Tester at Indra SA
-### I'm learning JS Framewoks such as React and Node, you can check my repositories :)
+Hi there 👋 my name is David and I'm from Spain
+Currently working as a QA Tester at Indra SA
+I'm learning JS Framewoks such as React and Node, you can check my repositories :)
 
-  TECNOLOGIES
+### TECNOLOGIES
 
 <!--
 **Davidrami12/Davidrami12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
