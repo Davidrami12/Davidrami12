@@ -2,35 +2,33 @@ Hi there 👋 my name is David and I'm from Spain <br/>
 Currently working as a QA Tester at Indra SA <br/>
 I'm learning JS Framewoks such as React and Node, you can check my repositories :) <br/>
 
-<hr>
+<hr/>
 
-### > TECNOLOGIES
+### > > > TECNOLOGIES < < <
 
-<table>
-  <tr>
-    <th>Front-End</th>
-    <th>Back-End</th>
-  </tr>
-  <tr>
-    <td>HTML 5</td>
-    <td>JavaScript</td>
-  </tr>
-  <tr>
-    <td>CSS 3</td>
-    <td>React.js</td>
-  </tr>
-  <tr>
-    <td>Sass</td>
-    <td>Node.js</td>
-  </tr><tr>
-    <td>Bootstrap</td>
-    <td>PHP</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>MySQL</td>
-  </tr>
-</table>
+<hr/>
+
+<h1>Front-End</h1>
+
+<ul>
+  <li>HTML 5</li>
+  <li>CSS 3</li>
+  <li>Sass</li>
+  <li>Bootstrap</li>
+</ul>
+
+<h1>Back-End</h1>
+
+<ul>
+  <li>JavaScript</li>
+  <li>React.js</li>
+  <li>Node.js</li>
+  <li>Express</li>
+  <li>MySQL</li>
+  <li>PHP</li>
+  <li>MySQL</li>
+  <li>MongoDB</li>
+</ul>
 
 <!--
 **Davidrami12/Davidrami12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
