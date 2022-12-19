@@ -4,7 +4,7 @@ I'm learning JS Framewoks such as React and Node, you can check my repositories 
 
 <hr/>
 
-### > > > TECNOLOGIES < < <
+<!-- ### > > > TECNOLOGIES < < <
 
 <hr/>
 
