@@ -1,5 +1,4 @@
 Hi there 👋 my name is David and I'm from Spain <br/>
-Currently working as a QA Tester at Indra SA <br/>
 I'm learning JS Framewoks such as React, Vue and Angular, you can check my repositories :) <br/>
 
 <hr/>
