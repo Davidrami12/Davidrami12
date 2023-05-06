@@ -1,6 +1,4 @@
-<hr/>
-
-Hi there 👋 my name is <b>David</b> and I'm from Spain <br/>
+<h1>Hi there 👋 my name is <b>David</b> and I'm from Spain</h1> <br/>
 
 I'm learning JS Framewoks such as React, Vue and Angular, you can check my repositories :) <br/>
 
