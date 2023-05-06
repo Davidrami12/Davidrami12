@@ -1,4 +1,4 @@
-<h6>Hi there 👋 my name is <b>David</b> and I'm from Spain</h6>
+<p>Hi there 👋 my name is <b>David</b> and I'm from Spain</p>
 
 I'm learning JS Framewoks such as React, Vue and Angular, you can check my repositories :) <br/>
 
