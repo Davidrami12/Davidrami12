@@ -6,7 +6,7 @@ I'm learning JS Framewoks such as React, Vue and Angular, you can check my repos
 
 <p>
 <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Davidrami12&theme=gruvbox&hide_border=true&layout=compact" alt="Davidrami12 stats card" /></p>
-[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Davidrami12&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davidrami12)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 <hr/>
 
