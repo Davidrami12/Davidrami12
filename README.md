@@ -5,8 +5,8 @@ I'm learning JS Framewoks such as React, Vue and Angular, you can check my repos
 <hr/>
 
 <p>
-<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Davidrami12&theme=gruvbox&hide_border=true&layout=compact" alt="Davidrami12 stats card" /></p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davidrami12)](https://github.com/anuraghazra/github-readme-stats)
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Davidrami12&theme=gruvbox&hide_border=true&layout=compact" alt="Davidrami12 stats card" />
+</p>
 <br/>
 <hr/>
 
