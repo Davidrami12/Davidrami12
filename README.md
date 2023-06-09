@@ -1,14 +1,14 @@
 <p>Hi there 👋 my name is <b>David</b> and I'm from Spain</p>
 
-I'm learning JS Framewoks such as React, Vue and Angular, you can check my repositories :) <br/>
+🌱 I'm learning JS Framewoks such as React, Vue and Angular, you can check my repositories :) <br/>
 
 <hr/>
 
-<p>
+<!--<p>
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Davidrami12&theme=gruvbox&hide_border=true&layout=compact" alt="Davidrami12 stats card" />
 </p>
 <br/>
-<hr/>
+<hr/>-->
 
 <!-- ### > > > TECNOLOGIES < < <
 
