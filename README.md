@@ -1,6 +1,6 @@
 <p>Hi there 👋 my name is <b>David</b> and I'm from Spain</p>
 
-🌱 I'm learning JS Framewoks such as React, Vue and Angular, you can check my repositories :) <br/>
+🌱 I'm learning JS Framewoks such as React and Vue, you can check my repositories :) <br/>
 
 <hr/>
 
@@ -9,6 +9,10 @@
 </p>
 <br/>
 <hr/>-->
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidrami12&show_icons=true&locale=en&layout=compact" alt="davidrami12" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davidrami12&show_icons=true&locale=en" alt="davidrami12" /></p>
 
 <!-- ### > > > TECNOLOGIES < < <
 
