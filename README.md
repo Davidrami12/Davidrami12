@@ -14,7 +14,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidrami12&show_icons=true&locale=en&layout=compact" alt="davidrami12" />
 </div>
 
-<<div align="center">
+<div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=davidrami12&show_icons=true&locale=en" alt="davidrami12" />
 </div>
 
