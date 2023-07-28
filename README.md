@@ -23,9 +23,9 @@
 <br/>
 
 ## 📫 How to reach me :
-<div align="center">
+<div align="left">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/davidrami12/" target="blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:davidrami2000@gmail.com" target="blank"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
 </div>
 
