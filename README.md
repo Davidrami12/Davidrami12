@@ -2,6 +2,11 @@
 <h3 align="center">A passionate and curious full stack developer based on Madrid, Spain.</h3>
 
 <br/>
+<div align="center">
+  <img src="https://64.media.tumblr.com/54805606e41234da265775f4ee8631ef/41d4a35f37c5abf1-f6/s1280x1920/c86995ddee2840dabfff99995367a58ed1382687.gif" align="center" width="600"/>
+</div>
+
+<br/>
 
 ## 🙋‍♂️ About Me
 
@@ -18,7 +23,7 @@
 <br/>
 
 ## 📫 How to reach me :
-<div align="left">
+<div style="display: flex; justify-content: space-between; align-items: center;">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/davidrami12/" target="blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
   <a href="mailto:davidrami2000@gmail.com" target="blank"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
 </div>
