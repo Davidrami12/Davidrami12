@@ -24,8 +24,9 @@
 
 ## 📫 How to reach me :
 <div align="left">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/davidrami12/" target="blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:davidrami2000@gmail.com" target="blank"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
 </div>
 
@@ -37,22 +38,22 @@
   <img src="https://skillicons.dev/icons?i=css"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=bootstrap"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=sass"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=tailwind"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=figma"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=ps"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=python"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=java"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=php"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=light"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=javascript"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=typescript"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vue"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vue&theme=light"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=react"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=redux"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=figma&theme=light"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ps"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python&theme=light"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java&theme=light"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=php&theme=light"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=nodejs"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=express"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=mongodb"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=aws"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql&theme=light"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=aws&theme=light"/>&nbsp;&nbsp;
 </div>
 
 
@@ -61,8 +62,8 @@
 
 ## 📊 My Github Stats :
 <div align="center">
-  <a href="https://github.com/Davidrami12/github-readme-stats"><img alt="Davidrami12's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Davidrami12&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Davidrami12/github-readme-stats"><img alt="Davidrami12's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidrami12&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Davidrami12/github-readme-stats"><img alt="Davidrami12's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Davidrami12&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0A0C10" /></a>
+  <a href="https://github.com/Davidrami12/github-readme-stats"><img alt="Davidrami12's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidrami12&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0A0C10" /></a>
 </div>
 
 
