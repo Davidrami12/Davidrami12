@@ -45,7 +45,6 @@
   <img src="https://skillicons.dev/icons?i=react"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=redux"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=figma&theme=light"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=ps"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=python&theme=light"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=java&theme=light"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=php&theme=light"/>&nbsp;&nbsp;
