@@ -1,12 +1,9 @@
 <h1 align="center">Hey there! 👋 I'm <b>David</b></h1>
 <h3 align="center">A passionate and curious full stack developer based on Madrid, Spain.</h3>
 
-<br/>
 <div align="center">
   <img src="https://64.media.tumblr.com/54805606e41234da265775f4ee8631ef/41d4a35f37c5abf1-f6/s1280x1920/c86995ddee2840dabfff99995367a58ed1382687.gif" align="center" width="600"/>
 </div>
-
-<br/>
 
 ## 🙋‍♂️ About Me
 
@@ -20,8 +17,6 @@
 
 - ⚡ Fun fact: I really enjoy reading books 📖 and my fav writer is Brandon Sanderson 📕
 
-<br/>
-
 ## 📫 How to reach me :
 <div align="left">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -29,8 +24,6 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:davidrami2000@gmail.com" target="blank"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
 </div>
-
-<br/>
 
 ## 🚀 Languages and Tools :
 <div align="center"> 
@@ -54,10 +47,6 @@
   <img src="https://skillicons.dev/icons?i=mysql&theme=light"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=aws&theme=light"/>&nbsp;&nbsp;
 </div>
-
-
-<br/>
-
 
 ## 📊 My Github Stats :
 <div align="center">
