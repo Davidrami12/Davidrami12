@@ -43,8 +43,8 @@
   <img src="https://skillicons.dev/icons?i=php&theme=light"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=nodejs"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=express"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=mysql&theme=light"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=aws&theme=light"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=docker&theme=light"/>&nbsp;&nbsp;
 </div>
