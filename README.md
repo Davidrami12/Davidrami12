@@ -34,9 +34,10 @@
   <img src="https://skillicons.dev/icons?i=tailwind&theme=light"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=javascript"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=typescript"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vue&theme=light"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=react"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=redux"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vue&theme=light"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=angular&theme=light"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=figma&theme=light"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=python&theme=light"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=java&theme=light"/>&nbsp;&nbsp;
