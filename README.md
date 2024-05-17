@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me :
 
-- 💭 I’m currently working on [Miranda Dashboard](https://github.com/Davidrami12/miranda-dashboard)
+- 💭 I’m currently working on my [Miranda Dashboard](https://github.com/Davidrami12/miranda-dashboard) project
 
 - 🌱 I’m currently learning **JS frameworks such as Vue and React**
 
