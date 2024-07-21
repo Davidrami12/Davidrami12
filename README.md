@@ -9,7 +9,7 @@
 
 - 💭 I’m currently working on my [Miranda Dashboard](https://github.com/Davidrami12/miranda-dashboard) project
 
-- 🌱 I’m currently learning **JS frameworks such as Vue and React**
+- 🌱 I’m currently learning **JS frameworks such as Vue and React** and also stuff about **Arduino**.
 
 - 💡 My favorite programming languages are **JavaScript** and **Python**
 
