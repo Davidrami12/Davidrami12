@@ -37,7 +37,6 @@
   <img src="https://skillicons.dev/icons?i=react"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=redux"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=vue&theme=light"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=angular&theme=light"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=figma&theme=light"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=python&theme=light"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=java&theme=light"/>&nbsp;&nbsp;
